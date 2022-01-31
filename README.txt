@@ -1,13 +1,3 @@
-Name: Alexander Nedev (Alex Nedev)
-Student Number: 101195595
-
-.tar file contents:
-    main.c
-    refugee.c
-    refugee.h
-    makefile
-    Readme.txt
-
 Compiling instructions:
     There is nothing fancy when it comes to compiling and running my solution.
     Once you've navigated to the folder that contains the contents of my tar
